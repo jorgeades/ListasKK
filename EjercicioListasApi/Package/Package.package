@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7c8a517e-4bef-4ccc-9a3a-cd9fcd9f9693" 
+        solutionId="7c8a517e-4bef-4ccc-9a3a-cd9fcd9f9693" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="EjercicioListasApi"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f66706bd-972f-424a-880d-10fb6c25c575" />
+  </features>
+</package>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Elemento (0x01) -->
+  <ContentType ID="0x0100824FFF7E2E9E4DEBA69DB66088B52204" Name="TipoNomEd" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{4663fcd3-217c-4505-8a36-bc1ae53ec624}" DisplayName="Nombre" Required="FALSE" Name="Nombre" />
+      <FieldRef ID="{3cfb09d4-0120-416e-b93e-5fd4ba34ed40}" DisplayName="Edad" Required="FALSE" Name="Edad" />
+    </FieldRefs>
+  </ContentType>
+</Elements>
