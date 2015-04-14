@@ -31,7 +31,7 @@
  <div>
         Añade los datos:<br/>
         Nombre: <input type="text" id="txNombre" /><br/>
-        Edad:<input type="text" id="txtEdad"/><br/>
+        Edad:<input type="text" id="txEdad"/><br/>
         <input type="button" id="btnAddDatos" value="Enviar"/>
         
 
